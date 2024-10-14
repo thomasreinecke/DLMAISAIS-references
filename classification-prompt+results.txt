@@ -1,0 +1,98 @@
+
+Execution Date: 2024-10-14
+User Prompt:
+  I am writing a research essay on ’AI, automation, and the future of work’ with
+  the specific research question: ’How will companies change when they integrate AI
+  technologies?’ The scope of this analysis includes a set of pre-screened articles,
+  which I will provide in PDF format. For each article, please:
+    1. Read the full body text (ignore the title and other metadata).
+    2. Identify and classify the relevant categories where AI is driving change in
+       companies/businesses (list all applicable categories).
+    3. Select the one primary category that best reflects the main theme of the article.
+    4. Update the provided spreadsheet with the following: Index (A), Article title,
+       Classified categories (comma-separated if more than one), Main category (the most 
+       relevant one).
+  With each new article, update the spreadsheet in canvas accordingly.
+
+
+ChatGPT 4o with Canvas - Output:
+Let's create a research classification spreadsheet. The spreadsheet will include the following columns:
+
+1. Index (A)
+2. Article Title
+3. Classified Categories (comma separated if more than one)
+4. Main Category (best fits the article)
+
+For each article provided, I will read the contents and classify it into the relevant categories where AI is driving change in companies and business in general. The revised categories are:
+
+- **HR & Talent**: Covers aspects related to human resources, talent acquisition, employee engagement, and workforce planning.
+- **Productivity**: Involves improvements in efficiency, performance, and overall productivity of business processes.
+- **Innovation & Tech**: Encompasses technological advancements, innovation, and the adoption of new technologies.
+- **Finance & Risk**: Related to financial management, risk assessment, fraud detection, and financial decision-making.
+- **Decision Making**: Focuses on strategic decision-making, knowledge-based systems, and corporate planning.
+- **Supply Chain & Ops**: Pertains to supply chain management, logistics, and overall operational efficiency.
+- **Customer Engagement**: Includes customer service, relationship management, and enhancing customer experiences.
+- **Sustainability**: Deals with environmental impacts, sustainability initiatives, and corporate social responsibility.
+- **Business Transformation**: Involves digital transformation, business model changes, and structural reorganization.
+- **Cybersecurity**: Covers risk management, compliance, and cybersecurity measures to protect business data.
+
+### Updated Spreadsheet
+| Index (A) | Article Title | Classified Categories | Main Category |
+|-----------|---------------|------------------------|---------------|
+| A1 | Strategic AI Integration: Examining the Role of Artificial Intelligence in Corporate Decision-Making | Decision Making, Productivity | Decision Making |
+| A2 | The Transformative Influence of Artificial Intelligence on Financial Organizations Worldwide | Finance & Risk | Finance & Risk |
+| A3 | The Impact of Generative Artificial Intelligence on Organizational Innovation Performance | Innovation & Tech, Productivity | Innovation & Tech |
+| A5 | Role of Integrated Artificial Intelligence for Knowledge Creation and Decision Making for Improving Firm Performance | Decision Making, Productivity | Decision Making |
+| A7 | The Impact of Artificial Intelligence in Recruitment and Selection Processes in IT Companies | HR & Talent | HR & Talent |
+| A8 | Artificial Intelligence and Digital Transformation in Supply Chain Management: A Case Study in Saudi Companies | Supply Chain & Ops, Finance & Risk | Supply Chain & Ops |
+| A9 | Research on the Impact of Innovation Input on Artificial Intelligence Technology Empowerment and Performance of Manufacturing Enterprises | Innovation & Tech, Productivity | Innovation & Tech |
+| A10 | Research on the Impact of Artificial Intelligence and Internationalization on Sustainable Development of Enterprises | Sustainability, Innovation & Tech | Sustainability |
+| A11 | The Impact and Response of Artificial Intelligence on the Theory of Enterprise Management | Decision Making, Productivity | Decision Making |
+| A13 | Significance of Artificial Intelligence to Deal with Stress During the Organisational Changes | HR & Talent | HR & Talent |
+| A16 | A Novel Paradigm to Artificial Intelligence in Transforming Supply Chain Management in the Agile Business World | Supply Chain & Ops, Innovation & Tech | Supply Chain & Ops |
+| A17 | Leveraging Artificial Intelligence and Emerging Technologies in the Next Phase of Digital Business Transformation | Business Transformation, Innovation & Tech | Business Transformation |
+| A18 | Integrating Artificial Intelligence and Machine Learning for Competitive Advantage in Developing Business Ecosystems | Business Transformation, Innovation & Tech | Business Transformation |
+| A19 | Artificial Intelligence Integrated with Machine Learning for Enhancing Business in E-World | Customer Engagement, Productivity | Customer Engagement |
+| A20 | Finding the Factors by Integrating the AI Model and Business Analytics Risk Assessment on Firm Organization | Finance & Risk | Finance & Risk |
+| A21 | AI and Corporate Sustainability: Exploring the Environmental and Social Impacts of AI Integration | Sustainability | Sustainability |
+| A22 | Analysis and Illustration of the Practical Impact of Artificial Intelligence and Intelligent Personal Assistants on Business Processes in Small- and Medium-Sized Service Enterprises | Productivity, Customer Engagement | Productivity |
+| A23 | A Study on Impact of Adaptation of AI-Artificial Intelligence Services on Business Performance of Hotels | Productivity, Customer Engagement, Innovation & Tech | Productivity |
+| A25 | Generative AI in Business Analytics by Digital Transformation of Artificial Intelligence Techniques | Business Transformation, Finance & Risk, Innovation & Tech | Business Transformation |
+| A26 | The Transformative Impact of the Development of Artificial Intelligence on Employment and Work Motivation in Business in the Conditions of the Information Economy | HR & Talent, Business Transformation | HR & Talent |
+| A27 | AI in Small and Medium Enterprises: Assessing the Barriers, Benefits, and Socioeconomic Impacts | Business Transformation, Productivity | Business Transformation |
+| A28 | Examining the Impacts and Obstacles of AI-Driven Management in Present-Day Business Contexts | Decision Making, Business Transformation | Decision Making |
+| A31 | Application of AI, IoT, and ML for Business Transformation of the Automotive Sector | Business Transformation, Supply Chain & Ops, Innovation & Tech | Business Transformation |
+| A32 | AI-Powered Business Intelligence for Transforming Finance and Education | Business Transformation, Finance & Risk | Finance & Risk |
+| A33 | The Need for Transforming Business Models in Insurance Using AI: Case Study | Business Transformation, Finance & Risk | Business Transformation |
+| A36 | Uncovering the Interactions Between the Enterprise AI Transformation, Supply Chain Concentration, and Corporate Risk-Taking Capacity | Supply Chain & Ops, Finance & Risk, Business Transformation | Supply Chain & Ops |
+| A37 | Adoption of Artificial Intelligence in Talent Acquisition: The Need for the E-Business Environment | HR & Talent, Business Transformation | HR & Talent |
+| A38 | The Impact of Artificial Intelligence on Firm Performance | Productivity, Finance & Risk | Productivity |
+| A39 | AI in HRM: Unveiling Areas and Future Trajectories for Organizational Transformation | HR & Talent | HR & Talent |
+| A41 | The Impacts of Artificial Intelligence and Knowledge-Based Systems on Corporate Decision Support | Decision Making, Business Transformation | Decision Making |
+| A42 | Impact of Artificial Intelligence on Recruitment and Selection of Information Technology Companies | HR & Talent | HR & Talent |
+| A45 | In the Era of Emerging Technologies: Discovering the Impact of Artificial Intelligence Capabilities on Timely Decision-Making and Business Performance | Decision Making, Productivity | Decision Making |
+| A46 | An Analytical Review on the Impact of Artificial Intelligence on the Business Industry: Applications, Trends, and Challenges | Business Transformation, Innovation & Tech | Business Transformation |
+| A47 | An Analytical Approach to the Impact of Artificial Intelligence on Business in the Dynamically Changing Era of Disruptive Technology | Innovation & Tech, Business Transformation | Innovation & Tech |
+| A49 | Team Formation for Human-Artificial Intelligence Collaboration in the Workplace: A Goal Programming Model to Foster Organizational Change | HR & Talent, Business Transformation | HR & Talent |
+| A51 | Strategic Integration of HR, Organizational Management, Big Data, IoT, and AI: A Comprehensive Framework for Future-Ready Enterprises | HR & Talent, Business Transformation | Business Transformation |
+| A52 | Artificial Intelligence as a Key Driver of Business Operations Transformation in the Conditions of the Digital Economy | Business Transformation, Productivity | Business Transformation |
+| A53 | ProcessGPT: Transforming Business Process Management with Generative Artificial Intelligence | Business Transformation, Productivity | Business Transformation |
+| A54 | Artificial Intelligence in Human Resource Management: Transforming Business Practices | HR & Talent | HR & Talent |
+| A55 | Enhancing Sales Forecasting Accuracy through Integrated Enterprise Resource Planning and Customer Relationship Management using Artificial Intelligence | Finance & Risk, Customer Engagement | Finance & Risk |
+| A56 | The Impact of Artificial Intelligence-Based Human Resource Management Systems on Organizational Efficiency | HR & Talent | HR & Talent |
+| A58 | Cyber Security Integration with Smart New Age Sustainable Startup Business, Risk Management, Automation and Scaling System for Entrepreneurs: An Artificial Intelligence Approach | Cybersecurity, Finance & Risk | Cybersecurity |
+| A63 | The Advantages of AI-Based Transformation Projects and Their Effects on Company Performance | Productivity, Business Transformation | Productivity |
+| A64 | The Impact of AI on Business: Opportunities, Risks, and Challenges | Business Transformation, Finance & Risk | Business Transformation |
+| A65 | Transforming the Energy Sector: Unleashing the Potential of AI-Driven Energy Intelligence, Energy Business Intelligence, and Energy Management System for Enhanced Efficiency and Sustainability | Sustainability, Business Transformation | Sustainability |
+| A67 | Generative AI: A Transformative Force in Business Intelligence | Business Transformation, Innovation & Tech | Business Transformation |
+| A68 | The Future of Work: Examining the Impact of AI/ML on Job Roles, Organizational Structures, and Talent Management Practices | HR & Talent, Business Transformation | HR & Talent |
+| A70 | An Innovative Navigating System Design along with AI Tech Integration for Modern System Implementation for Business | Business Transformation | Business Transformation |
+| A71 | AI-Driven e-HRM Strategies: Transforming Employee Performance and Organizational Productivity | HR & Talent, Productivity | HR & Talent |
+| A76 | Artificial Intelligence-Driven Scalability and Its Impact on the Sustainability and Valuation of Traditional Firms | Sustainability, Business Transformation | Sustainability |
+| A78 | AI Technology Application and Employee Responsibility | HR & Talent, Business Transformation | HR & Talent |
+| A79 | Impact of Artificial Intelligence on HR Practices in the UAE | HR & Talent | HR & Talent |
+| A80 | Embracing Artificial Intelligence in the Labour Market - The Case of Statistics | HR & Talent, Productivity | HR & Talent |
+| A85 | Digital Economy Structuring for Sustainable Development - The Role of Blockchain and Artificial Intelligence in Improving Supply Chain and Reducing Negative Environmental Impacts | Supply Chain & Ops, Sustainability | Supply Chain & Ops |
+| A94 | The Impact of Peer Effect of Industrial Robot Application on Enterprise Carbon Emission Reduction | Sustainability | Sustainability |
+| A96 | Financial Fraud Detection Through the Application of Machine Learning Techniques - A Literature Review | Finance & Risk | Finance & Risk |
+| A98 | Harnessing Probabilistic Neural Network with Triple Tree Seed Algorithm-Based Smart Enterprise Quantitative Risk Management Framework | Finance & Risk | Finance & Risk |
