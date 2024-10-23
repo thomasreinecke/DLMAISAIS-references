@@ -1,0 +1,9 @@
+pandas
+xlrd>=2.0.1
+frictionless[parquet,pandas]
+yfinance
+plotly
+matplotlib
+sqlalchemy
+nbformat
+vectorbt
